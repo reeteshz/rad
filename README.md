@@ -50,7 +50,7 @@ $(function(){
   $('#google-ad2').rad();
 });
 
-<div class="rapWrapper">
+<div class="radWrapper">
   <!-- Your ad here w/ id="google-ad2" or whatever id you use -->
 </div>
 ```
@@ -63,7 +63,7 @@ $(function(){
   });
 });
 
-<div class="rapWrapper">
+<div class="radWrapper">
   <!-- Your ad here w/ id="google-ad2" or whatever id you use -->
 </div>
 ```
